@@ -1,2 +1,13 @@
+/* Style for the main element */
+main.accio {
+    width: 150px;
+    height: 150px;
+    background-color: #bafc03;
+}
 
-/* Your CSS Code here. */
+/* Style for the paragraph element */
+p.hello-accio {
+    color: #030bfc;
+    margin-left: 32px;
+    padding: 10px;
+}
